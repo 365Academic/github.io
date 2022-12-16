@@ -16,5 +16,8 @@
 
 ```about
 A summary of Shane...
-IT Specialist with over ten years of experience in providing comprehensive  technical support to end-users. Successful in installing, configuring  applications on Windows operating systems and providing IT technical  support. Collaborate with team and Managers to complete the task in time with the ability to discover issues, resolve defects and ensure client  expectations are met with high-quality support.
+IT Specialist with over ten years of experience in providing comprehensive technical support to end-users. 
+Successful in installing, configuring applications on Windows operating systems and providing IT technical support. 
+Collaborate with team and Managers to complete the task in time with the ability to discover issues,
+resolve defects and ensure client expectations are met with high-quality support.
 ```
